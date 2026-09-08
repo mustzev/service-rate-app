@@ -1,4 +1,4 @@
-# service_rate_app
+# service rate app
 
 A new Flutter project.
 
